@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    margin: 0
+}
+.echart{
+    align-items: center;
+    justify-content: center;
+}
+.echart h2{
+    text-align: center;
+}
+.handsontable{
+    margin-left:16%;
+    width:-webkit-fill-available
+}
+#hot-display-license-info{
+    display: none;
+    left:'center';
+}
